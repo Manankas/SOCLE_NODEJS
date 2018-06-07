@@ -1,0 +1,37 @@
+[
+    {
+        "firstname": "ANDRIANIRIANA",
+        "lastname": "Feno",
+        "address": "Tana",
+        "phone": "033 99 333 97",
+        "mail": "feno@yahoo.fr"
+    },
+    {
+        "firstname": "RAZAFIARISON",
+        "lastname": "Jocelin",
+        "address": "Tana",
+        "phone": "020 26 789 67",
+        "mail": "jocelin@yahoo.fr"
+    },
+    {
+        "firstname": "RAFANANTENANA",
+        "lastname": "Miora",
+        "address": "Majunga",
+        "phone": "020 36 777 97",
+        "mail": "miora@gmail.fr"
+    },
+    {
+        "firstname": "RAZAFY",
+        "lastname": "Mbola",
+        "address": "Tulear",
+        "phone": "034 88 777 97",
+        "mail": "mbola@yahoo.fr"
+    },
+    {
+        "firstname": "ANDRIAMPARANY",
+        "lastname": "Tiana",
+        "address": "Tamatave",
+        "phone": "034 88 788 97",
+        "mail": "tiana@gmail.fr"
+    }
+]
